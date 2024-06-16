@@ -1,5 +1,5 @@
 # odin-recipes
-## Odin Project - Recipes
+## The Odin Project - Recipes
 
 This is the README file for the Odin Project's Recipes assignment.
 
